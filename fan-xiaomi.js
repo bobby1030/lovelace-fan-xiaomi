@@ -33,6 +33,7 @@ function moreInfo(entity, large = false) {
 const OptionsPlatform = [
     'default',
     'xiaomi_miio_fan',
+    'xiaomi_fan_circulator'
 ];
 
 const defaultConfig = {
